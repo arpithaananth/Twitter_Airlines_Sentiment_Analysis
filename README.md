@@ -36,7 +36,7 @@ Eastern time followed by Central time are the timezones of most users
 ### Word Cloud of Negative Reviews
 ![Neg Word Cloud](https://user-images.githubusercontent.com/47745543/83969483-ecb19d00-a8ed-11ea-98ea-c148bc905539.JPG)
 
-### Analysis of Negative Reasons stated in the Negative Tweets
+### Analysis of Negative Tweets
 ![Top Negative Reasons](https://user-images.githubusercontent.com/47745543/83969490-f9ce8c00-a8ed-11ea-9888-c2f2dd0fedda.JPG)
 
 ### Top 15 Unigrams
