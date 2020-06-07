@@ -7,8 +7,8 @@
 - Word Embeddings
 
 ## About the Dataset: 
-Source: Crowflower Data for Everyone
-Twitter data was scraped from February 2015, the tweets are classified into positive, negative & neutral emotions
+- Source: Crowflower Data for Everyone
+- Twitter data of February 2015 was scraped, the tweets are classified into positive, negative & neutral emotions
 
 ## Insights from the Data
 ### Sentiment Distribution Analysis
