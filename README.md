@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis of US Airlines
 
-## Sentiment Analysis has been done using,
+## Approach for Sentiment Analysis
 - VADER Lexicon
 - TextBlob
 - Machine Learning Models
@@ -10,42 +10,42 @@
 Source: Crowflower Data for Everyone
 Twitter data was scraped from February 2015, the tweets are classified into positive, negative & neutral emotions
 
-## Insights from the Data:
-### - Sentiment Distribution Analysis
+## Insights from the Data
+### Sentiment Distribution Analysis
 63% of the tweets are negative, whereas 21% positive & 16% neutral
 ![Sentiment Distribution](https://user-images.githubusercontent.com/47745543/83969424-93496e00-a8ed-11ea-8f3b-07bf7f5e1470.JPG)
 
-### - Analysis of Airlines mentioned in the tweets
+### Analysis of Airlines mentioned in the tweets
 United Airlines followed by U.S Airlines have the highest tweet mentions
 ![Airlines listed](https://user-images.githubusercontent.com/47745543/83969434-a8be9800-a8ed-11ea-856f-9b812506804f.JPG)
 
-### - Analysis of Top 10 Tweet Locations
+### Analysis of Top 10 Tweet Locations
 New York location has the highest tweet mentions
 ![Tweet Locations](https://user-images.githubusercontent.com/47745543/83969445-b6741d80-a8ed-11ea-94c2-4803078427d6.JPG)
 
-### - Analysis of User Time-zones
+### Analysis of User Time-zones
 Eastern time followed by Central time are the timezones of most users
 ![User Timezones](https://user-images.githubusercontent.com/47745543/83969457-c3910c80-a8ed-11ea-85a9-c1bbb0cd93c7.JPG)
 
-### - Word Cloud 
+### Word Cloud 
 ![Overall Word Cloud](https://user-images.githubusercontent.com/47745543/83969468-d1469200-a8ed-11ea-8f0a-d523449b0d28.JPG)
 
-### - Word Cloud of Positive Reviews
+### Word Cloud of Positive Reviews
 ![Pos Word Cloud](https://user-images.githubusercontent.com/47745543/83969477-ddcaea80-a8ed-11ea-9f0c-7a0035ee65f4.JPG)
 
-### - Word Cloud of Negative Reviews
+### Word Cloud of Negative Reviews
 ![Neg Word Cloud](https://user-images.githubusercontent.com/47745543/83969483-ecb19d00-a8ed-11ea-98ea-c148bc905539.JPG)
 
-### - Analysis of Negative Reasons stated in the Negative Tweets
+### Analysis of Negative Reasons stated in the Negative Tweets
 ![Top Negative Reasons](https://user-images.githubusercontent.com/47745543/83969490-f9ce8c00-a8ed-11ea-9888-c2f2dd0fedda.JPG)
 
-### - Top 15 Unigrams
+### Top 15 Unigrams
 ![15 unigrams](https://user-images.githubusercontent.com/47745543/83969501-06eb7b00-a8ee-11ea-9586-e373cc856aa2.JPG)
 
-### - Top 25 Bigrams
+### Top 25 Bigrams
 ![25 bigrams](https://user-images.githubusercontent.com/47745543/83969510-14a10080-a8ee-11ea-87d3-e9ca4d679cf6.JPG)
 
-### -Top 25 Trigrams
+### Top 25 Trigrams
 ![25 Trigrams](https://user-images.githubusercontent.com/47745543/83969522-22ef1c80-a8ee-11ea-8cf1-217bb62a9b6b.JPG)
 
 ### Results of VADER Sentiment Analysis
