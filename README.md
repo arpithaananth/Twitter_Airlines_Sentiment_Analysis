@@ -59,7 +59,7 @@ Accuracy of TextBlob is 42.91%
 ![BOW ML Models Comparison](https://user-images.githubusercontent.com/47745543/83969547-3f8b5480-a8ee-11ea-84fe-0176f51d8bad.JPG)
 
 ### Results of Word Embeddings (word2vec) Sentiment Analysis
-![word embedding result](https://user-images.githubusercontent.com/47745543/83969559-4d40da00-a8ee-11ea-9032-f941d7b52c8e.JPG)
+![image](https://user-images.githubusercontent.com/47745543/83970127-9a727b00-a8f1-11ea-93a3-78db230d5536.png)
 ![Word_Embedding ML Models](https://user-images.githubusercontent.com/47745543/83969567-5631ab80-a8ee-11ea-82d9-e6cca953e0de.JPG)
 
 ### Inference:
